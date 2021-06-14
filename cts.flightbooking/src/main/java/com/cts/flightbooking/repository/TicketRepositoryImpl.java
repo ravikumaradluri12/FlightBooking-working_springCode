@@ -1,0 +1,5 @@
+package com.cts.flightbooking.repository;
+
+public class TicketRepositoryImpl {
+
+}
